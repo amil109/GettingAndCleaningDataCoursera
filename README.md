@@ -37,4 +37,4 @@ The write.table() command is used to write this filtered data frame to 'tidydata
 
 ## Optional clean-up after import
 
-The script contains a line to clean up the workspace that is commented by default, but if the user wished to clean up their workspace and free up memory after the import, they can do this by uncommenting the last line.
+The script contains a line to clean up the workspace that is commented by default, but if the user wishes to clean up their workspace and free up memory after the import, they can do this by uncommenting the last line.
